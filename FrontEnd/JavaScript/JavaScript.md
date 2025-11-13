@@ -117,7 +117,7 @@ Bounding:
    document.getElementById("btn").onclick = function() {
      alert("Button Clicked");
    }
-   </script>
+</script>
 ```
 
 Events:
